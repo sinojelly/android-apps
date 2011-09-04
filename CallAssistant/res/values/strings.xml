@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CallAssistant</string>
+    <string name="period_label">Period of Call Alarm Timer(seconds)</string>
+    <string name="period_description">Alarm at the specified seconds in each minutes.</string>
+    <string name="period_default_value">50</string>
+    <string name="outgoing_calls">Outgoing Calls</string>
+    <string name="incoming_calls">Incoming Calls</string>
+    <string name="ok">OK</string>
+</resources>
